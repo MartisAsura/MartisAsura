@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... abhishekde0909@gmail.com
+- 📫 How to reach me ... abhishekdey0909@gmail.com
 
 <!---
 MartisAsura/MartisAsura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
